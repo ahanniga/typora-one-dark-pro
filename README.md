@@ -1,6 +1,6 @@
 # **One Dark Pro** theme for Typora
 
-For those who prefer dark themes, One Dark Pro is based on the [Nord](https://theme.typora.io/theme/Nord/) theme, but further darkened and the viewing areas opened up for larger monitors. 
+One Dark Pro is a Typora theme based on [Nord](https://theme.typora.io/theme/Nord/), but further darkened and the viewing areas opened up for larger monitors. 
 
 ### Main View
 ![one-dark-pro](/media/theme/one-dark-pro/one-dark-pro.png)
